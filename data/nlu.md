@@ -1,0 +1,589 @@
+## intent:affirm
+- yes
+- yup
+- yep
+- yeah
+- indeed
+- that's right
+- ok
+- great
+- right, thank you
+- correct
+- great choice
+- sounds really good
+- absolutely
+- perfect
+- very true
+- true
+- yes please
+- thank you
+- thank you bott
+- great thank you
+- yes. Please
+
+## intent:not
+- nah
+- no
+- don't
+- no thanks
+- nah bro
+- no no
+- won't
+- do not
+- false
+- sounds bad
+- not at all
+- not
+- reject
+- nope
+- no need
+- [no](not) thank you
+- no dont
+- n
+- no don't send
+- no. thanks
+
+## intent:goodbye
+- bye
+- goodbye
+- good bye
+- stop
+- end
+- farewell
+- Bye bye
+- have a good one
+- bye bye
+- good bye bot
+- thanks
+
+## intent:greet
+- hey
+- howdy
+- hey there
+- hello
+- hi
+- good morning
+- good evening
+- dear sir
+- how are you
+- good day
+- how are you today
+- hello bot
+- hola
+- hello how are you
+- how are you bot how are  you doing
+- how are you doing bot
+- Hola
+- Hey
+- Hi
+- Hello!
+- hey bot
+
+## intent:restaurant_search
+- i'm looking for a place to eat
+- I want to grab lunch
+- I want to grab dinner
+- I want to eat something
+- I need to get something to eat
+- I want to order some food
+- please find me place to eat something
+- I love food please fetch best location
+- I my wife didn't cook today please find restaurants
+- I want to order something from hotel
+- I want to order food in my city
+- I'm starving please find a place to eat in [delhi](location)
+- i am starving
+- I can't wait to eat
+- I need some place to eat in [bengaluru](location)
+- I want to eat food
+- show me some place in [delhi](location)
+- please show to me some location to eat in [bengaluru](location)
+- Fetch me some places to eat
+- Best rastaurant in [delhi](location)
+- Need some food
+- [costly]{"entity": "price", "value": "high"} in [mumbai](location)
+- [budget]{"entity": "price", "value": "mid"} friendly restaurants in [jalandhar](location)
+- [cheapest]{"entity": "price", "value": "low"} restaurants in [bengaluru](location)
+- find a restaurant with [mid](price) price range in [delhi](location)
+- find me a [american](cuisine) restaurant in delhi
+- show me the [costliest]{"entity": "price", "value": "high"} hotel in city
+- I am hungry please search place to eat in [bengaluru](location)
+- I am searching for a dinner spot
+- I am looking for some restaurants in [Delhi](location).
+- I am looking for some restaurants in [Bangalore](location)
+- show me [chinese](cuisine) restaurants
+- show me [chines]{"entity": "cuisine", "value": "chinese"} restaurants in the [New Delhi]{"entity": "location", "value": "Delhi"}
+- show me a [mexican](cuisine) place in the [centre](location)
+- i am looking for an [indian](cuisine) spot called olaolaolaolaolaola
+- search for restaurants
+- anywhere in the [west](location)
+- I am looking for [asian fusion](cuisine) food
+- I am looking a restaurant in [294328](location)
+- in [Gurgaon](location)
+- [Thai](cuisine)
+- [North Indian](cuisine)
+- [Italian](cuisine)
+- [Chinese]{"entity": "cuisine", "value": "chinese"}
+- [chinese](cuisine)
+- [Lithuania](location)
+- Oh, sorry, in [Italy](location)
+- in [delhi](location)
+- I am looking for some restaurants in [Mumbai](location)
+- I am looking for [mexican indian fusion](cuisine)
+- can you book a table in [rome](location) in a [moderate]{"entity": "price", "value": "mid"} price range with [british](cuisine)
+- [central](location) [indian](cuisine) restaurant
+- please help me to find restaurants in [pune](location)
+- Please find me a restaurantin [bangalore](location)
+- show me restaurants
+- please find me [chinese](cuisine) restaurant in [delhi](location)
+- can you find me a [chinese](cuisine) restaurant
+- please find me a restaurant in [ahmedabad](location)
+- please show me a few [italian](cuisine) restaurants in [bangalore](location)
+- show me restaurant
+- please show me some restaurants in delhi
+- [cheapest]{"entity": "price", "value": "low"} restaurants in [dharmavaramm](location)
+- find me a [cheapest]{"entity": "price", "value": "low"} restaurant in [bengaluru](location)
+- find me best restaurants in [delhi](location)
+- i want something to eat
+- low [budget]{"entity": "price", "value": "mid"} restaurants in south [indian](cuisine) [bengaluru](location)
+- [cheapest]{"entity": "price", "value": "low"} restaurant in [bengaluru](location)
+- [costly]{"entity": "price", "value": "high"} restaurant in [delhi](location)
+- low [budget]{"entity": "price", "value": "mid"} restarant in [pune](location)
+- i want to order some food
+- order some food
+- please find me [north indian](cuisine) restaurant in [delhi](location)
+- i want to find restaurant in [pune](location) with [cheapest]{"entity": "price", "value": "low"} price
+- please find [chinese](cuisine) restaurant in [bengaluru](location) with [low](price) price and email to [gajulajagadeesh7@gmail.com](email)
+- want to eat [mexican](cuisine) food
+- [budget]{"entity": "price", "value": "mid"} friendly restaurants in [delhi](location)
+- hello bot can restaurants in [delhi](location)
+- find me a restaurant in [delhi](location)
+- find me [chinese](cuisine) restaurant in [delhi](location)
+- please  find me best restaurant in [delhi](location)
+- best [chinese](cuisine) restaurant in [delhi](location) at low price
+- i'll prefer [mexican](cuisine)
+- need find restaurant
+- find me a restaurant
+- find me restaurant
+- find me a restaurant in [bengaluru](location)
+- find me [chinese](cuisine) restaurants in [bengaluru](location)
+- [cheapest]{"entity": "price", "value": "low"} resturant in [bengaluru](location)
+- find me [cheapest]{"entity": "price", "value": "low"} restaurant in [north indian](cuisine) cusisine in city [new delhi](location)
+- find me [cheapest]{"entity": "price", "value": "low"} resturant in [bengaluru](location)
+- find me best restaurant in [delhi](location)
+- find me [italian](cuisine) restaurants in [dharmavaram](location)
+- best hotel in [delhi](location)
+- find me [cheapest]{"entity": "price", "value": "low"} [italian](cuisine) restaurant in [new delhi]{"entity": "location", "value": "Delhi"}
+- [costly]{"entity": "price", "value": "high"} restaurant in [new delhi]{"entity": "location", "value": "Delhi"}
+- find me best [chinese](cuisine) restaurant in [bengaluru](location)
+- send me those results to my email
+- find me [costly]{"entity": "price", "value": "high"} resaturants in [dharmavaram](location)
+- find me [cheapest]{"entity": "price", "value": "low"} [italian](cuisine) restaurants in [bengaluru](location)
+- I’m hungry. Looking out for some good restaurants
+- find me best restaurants in [jaipur](location)
+- find me [costly]{"entity": "price", "value": "high"} south [indian](cuisine) restaurant in [jaipur](location)
+- need to find best [chinese](cuisine) restaurant
+- find me [cheapest]{"entity": "price", "value": "low"} [italian](cuisine) restaurant in [warangal](location)
+- find me [cheapest]{"entity": "price", "value": "low"} [american](cuisine) restaurant
+- [mumbai](location)
+- find me [italian](cuisine) restaurant in [dharmavaram](location)
+- [costly]{"entity": "price", "value": "high"} [italian](cuisine) restaurant
+- [italian](cuisine) restaurant in [bengaluru](location)
+- best [italian](cuisine) restaurant in [dharmavram](location)
+- best [italian](cuisine) restaurant in [dharmavaram](location)
+- [cheapest]{"entity": "price", "value": "low"} restaurant in [anantapur](location)
+- best restaurant in [bengaluru](location) area
+- [costly]{"entity": "price", "value": "high"} restaurant
+- find [cheap]{"entity": "price", "value": "low"} restaurant
+- find me best [cheap]{"entity": "price", "value": "low"} [mexican](cuisine) restaurants in [jodhpur](location)
+- find me [costly]{"entity": "price", "value": "high"} [italian](cuisine) restaurant in [mumbai](location)
+- I'm hungry. looking for restaurants
+- I'm hungry
+- I'll prefer [thai](cuisine)
+- I'll prefer [Thai](cuisine)
+- Can you suggest some good restaurants in [Rishikesh](location)
+- Okay. Show me some in [Agra](location)
+- I'll prefer [chines]{"entity": "cuisine", "value": "chinese"}
+- Can you suggest some good restaurants in [kolkata](location)
+- Im hungry. Looking out for some good restaurants
+- in [mubaim](location)
+- in [Mumbai](location)
+- Im hungry. Looking out for some good [chinese](cuisine) restaurants in [chandigarh](location)
+- Looking out for some good restaurants
+- [thai](cuisine)
+- looking for restaurant in [bangalore]{"entity": "location", "value": "bengaluru"}
+- Ill prefer [chines]{"entity": "cuisine", "value": "chinese"}
+- Okay. Show me some in [delhi]{"entity": "location", "value": "Delhi"}
+- i m hungry
+- can you find me [cheap]{"entity": "price", "value": "low"} restaurant in [poona]{"entity": "location", "value": "pune"}
+- can you please find [superb]{"entity": "price", "value": "high"} [mexican](cuisine) restaurant in [poona]{"entity": "location", "value": "pune"}
+- find me [cheap]{"entity": "price", "value": "low"} [north indian](cuisine) restaurant
+- can find me [costly]{"entity": "price", "value": "high"} restaurant in [mysore](location)
+- [chines]{"entity": "cuisine", "value": "chinese"}
+- find me restaurant in [puri](location)
+- okay show me in [cuttack](location)
+- ok show me in [indore](location)
+- Ill prefer [thai](cuisine)
+- find me [mexican](cuisine) restaurant nearby
+- fine me [costly]{"entity": "price", "value": "high"} restaurant near my place
+
+## intent:cuisine
+- [Thai](cuisine)
+- [north indian](cuisine)
+- [mexican](cuisine)
+- [african](cuisine)
+- [american](cuisine)
+- i'll prefer [italian](cuisine)
+- i will prefer[chinese](cuisine)
+- i will have [thai](cuisine)
+- i prefer[north](cuisine)
+- [North Indian](cuisine)
+- [thai](cuisine)
+- [american](cuisine)
+
+## intent:location
+- in [bengaluru](location)
+- [delhi](location)
+- [dharmavaram](location)
+- anywhere near to [jalandhar](location)
+- in [ludhiana](location)
+- at [hyderabad](location)
+- near [vijayawada](location)
+- inside [bombay](location)
+- in [american](cuisine)
+- [jodhpur](location)
+- [varanasi](location)
+- [jhansi](location) area
+- in [ahmedabad](location)
+- [chennai](location)
+- [madras](location) area
+- in [hyderabad](location)
+- [kolkata](location)
+- [culcatta](location)
+- [mumbai](location)
+- in [bombay](location)
+- [agra](location)
+- around [ajmer](location)
+- [aligarh](location) area
+- in [amravati](location)
+- [amaravati](location)
+- around [amritsar](location)
+- [asansol](location)
+- in [aurangabad](location)
+- [bareilly](location)
+- [belgaum](location)
+- around [bhavnagar](location)
+- in [bhiwandi](location)
+- [bhopal](location)
+- [bhubaneswar](location)
+- in [bikaner](location)
+- [bilaspur](location)
+- [bokaro](location)
+- [chandigarh](location)
+- in [coimbatore](location)
+- [cuttack](location)
+- close to [dehradun](location)
+- [dhanbad](location)
+- in and around [bhilai](location)
+- [durgapur](location)
+- in [erode](location)
+- [faridabad](location)
+- [firozabad](location)
+- near to [ghaziabad](location)
+- in [gorakhpur](location)
+- [gulbarga](location)
+- [guntur](location)
+- [gwalior](location)
+- [gurgaon](location)
+- in [guwahati](location)
+- far from [hamirpur](location)
+- [hubli–dharwad](location)
+- [indore](location)
+- in [jabalpur](location)
+- [jammu](location)
+- [jamnagar](location)
+- area at[jamshedpur](location)
+- in [jhansi](location)
+- [kakinada](location)
+- [kannur](location)
+- [kanpur](location)
+- in [kochi](location)
+- from [kolhapur](location)
+- [kollam](location)
+- close to [kozhikode](location)
+- in [kurnool](location)
+- [ludhiana](location)
+- from [lucknow](location)
+- [rourkela](location)
+- in [ranchi](location)
+- closest to [rajahmundry](location)
+- [rajkot](location)
+- [raipur](location)
+- anywhere in [prayagraj](location)
+- at [purulia](location)
+- anywhere near [pondicherry](location)
+- [patna](location)
+- bear to [noida](location)
+- [nellore](location)
+- from [nashik](location)
+- [nanded](location)
+- anywhere [nagpur](location)
+- at [mysore](location)
+- near to [moradabad](location)
+- proximity to [meerut](location)
+- [mangalore](location)
+- [goa](location)
+- at [mathura](location)
+- anywhere at[malappuram](location)
+- close to [madurai](location)
+- [warangal](location)
+- at [vellore](location)
+- near [visakhapatnam](location)
+- close to [vijaywada](location)
+- [vijayawada](location)
+- at [vasai-virar](location)
+- [vadodara](location)
+- nearest [bijapur](location)
+- [ujjain](location)
+- close to [tiruppur](location)
+- at [thrissur](location)
+- anywhere close to [thiruvananthapuram](location)
+- [surat](location)
+- [srinagar](location)
+- at [solapur](location)
+- [siliguri](location)
+- [shimla](location)
+- at [salem](location)
+- [bengaluru](location)
+- [bangalore]{"entity": "location", "value": "bengaluru"}
+- [delhi]{"entity": "location", "value": "Delhi"}
+- [dilli]{"entity": "location", "value": "Delhi"}
+- [delhi]{"entity": "location", "value": "Delhi"}
+- [poona]{"entity": "location", "value": "pune"}
+
+## intent:price
+- [low](price)
+- [mid](price)
+- [high](price)
+- very [cheap]{"entity": "price", "value": "low"}
+- very [costly]{"entity": "price", "value": "high"}
+- [rich]{"entity": "price", "value": "high"}
+- [moderate]{"entity": "price", "value": "mid"}
+- [heavy]{"entity": "price", "value": "high"}
+- minimum [budget]{"entity": "price", "value": "mid"}
+- [wealthy]{"entity": "price", "value": "high"}
+- [grand]{"entity": "price", "value": "high"}
+- [superb]{"entity": "price", "value": "high"}
+- [minimal]{"entity": "price", "value": "low"}
+- [medium]{"entity": "price", "value": "mid"}
+- [normal]{"entity": "price", "value": "mid"}
+- [pricey]{"entity": "price", "value": "high"}
+- [usual]{"entity": "price", "value": "mid"}
+- [least]{"entity": "price", "value": "low"}
+- [lowest]{"entity": "price", "value": "low"}
+- [simple]{"entity": "price", "value": "mid"}
+- [<300]{"entity": "price", "value": "low"}
+- [< 300]{"entity": "price", "value": "low"}
+- [>700]{"entity": "price", "value": "high"}
+- [> 700]{"entity": "price", "value": "high"}
+- [300-700 range]{"entity": "price", "value": "mid"}
+- [300-700]{"entity": "price", "value": "mid"}
+- [300 - 700]{"entity": "price", "value": "mid"}
+- [More than 700]{"entity": "price", "value": "high"}
+- [more than 700]{"entity": "price", "value": "high"}
+- [Lesser than Rs. 300]{"entity": "price", "value": "low"}
+- [Lesser than Rs 300]{"entity": "price", "value": "low"}
+- [Rs. 300 to 700]{"entity": "price", "value": "mid"}
+- [Rs 300 to 700]{"entity": "price", "value": "mid"}
+
+
+## intent:email
+- ['example@example.com](email)
+- myemail [hello@gmail.com](email)
+- to [jagadeesh@gmail.com](email)
+- ping to [vicky@protonmail.com](email)
+- push to [admin@india.net](email)
+- [example@yahoomail.com](email)
+- send to [foodie@hotmail.com](email)
+- forward to [srinivas@somemail.com](email)
+- email to [someone@mailme.net](email)
+- [admins@iiitb.net](email)
+- [cherry@gmail.com](email)
+- [srinivas.soma@gmail.com](email)
+- [cherryjan96@gmail.com](email)
+- [howdy@protonmail.com](email)
+- [gajulajagadeesh7@gmail.com](email)
+- yes send to [vickyviper@protonmail.com](email)
+- forward to [venkateshdevilvenky@gmail.com](email)
+- yes send to [srinivas.soma@gmail.com](email)
+- mail to [admin@cpanel.com](email)
+- [emantav@gmail.com](email)
+- yes please send to [milinangalia@gmail.com](email)
+- yes. Please send it to [milinangalia@gmail.com](email)
+- [milinangalia@gmail.com](email)
+- yes. Please send it to [xyz@sth.edu](email)
+- [jddk.2jmd@kdl.co.in](email)
+- my email address [email.123-abc@domain.123.com](email)
+- please mail me the list to [123-email@domain.co.in](email)
+- [rlakshminarayana@gmail.com](email)
+- yes please send to [rlakshminarayana@gmail.com](email)
+- yes please send it to [xyz@sth.edu](email)
+- my email is [milinangalia@gmail.com](email)
+- email to [milinangalia@gmail.com](email)
+- yes. Please send it to [ahbcdj@dkj.com](email)
+- [abcd@gmail.com](email)
+
+## synonym:2
+- two
+- couple
+- twin
+
+## synonym:3
+- three
+
+## synonym:4
+- four
+
+## synonym:Delhi
+- New Delhi
+- new delhi
+- delhi
+- dilli
+
+## synonym:Mumbai
+- mumbai
+- bombay
+- Bombay
+
+## synonym:bengaluru
+- bangalore
+- banglore
+- bengalore
+- bangaluru
+- benglore
+- bengalurus
+- Bangalore
+- Bengaluru
+
+## synonym:chennai
+- Chennai
+- madras
+- Madras
+
+## synonym:chinese
+- chines
+- Chinese
+- Chines
+
+## synonym:high
+- costly
+- costliest
+- superb
+- rich
+- heavy
+- wealthy
+- grand
+- pricey
+- >700
+- > 700
+- More than 700
+- expensive
+- greater than 700
+- 700 or more
+- luxury
+- luxurious
+- More than Rs.700
+- More than Rs. 700
+- more than 700
+- more than Rs.700
+- more than Rs. 700
+- Morethan 700
+- Morethan Rs.700
+- Morethan Rs. 700
+- morethan 700
+- morethan Rs.700
+- morethan Rs. 700
+
+## synonym:low
+- cheapest
+- cheap
+- minimal
+- least
+- lowest
+- <300
+- < 300
+- low budget
+- cheaper
+- inexpensive
+- less than 300
+- cost under 300
+- Lesser than Rs. 300
+- Lesser than Rs.300
+- lesser than Rs. 300
+- lesser than Rs.300
+- Lesserthan Rs. 300
+- lesserthan Rs. 300
+- lesserthan Rs.300
+- Lesserthan Rs.300
+- Less than Rs. 300
+- Less than Rs.300
+- less than Rs. 300
+- less than Rs.300
+- Lessthan Rs. 300
+- lessthan Rs. 300
+- lessthan Rs.300
+- Lessthan Rs.300
+- Lesser than 300
+- lesser than 300
+- Lesserthan 300
+- lesserthan 300
+- Less than 300
+- lessthan 300
+- Lessthan 300
+
+## synonym:mid
+- budget
+- moderate
+- medium
+- normal
+- usual
+- simple
+- 300-700 range
+- 300-700
+- 300 - 700
+- average
+- moderately
+- mid
+- in range of 300 to 700
+- 300 to 700
+- Rs. 300 to 700
+- Rs.300 to 700
+
+## synonym:pune
+- poona
+- Pune
+- Poona
+
+## synonym:vegetarian
+- veggie
+- vegg
+- vegan
+- veg
+
+## regex:email
+- ^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$
+
+## regex:greet
+- hey[^\s]*
+
+## regex:high
+- ^>[0-9]{3}$
+
+## regex:low
+- ^<[0-9]{2,3}$
+
+## regex:mid
+- ^[0-9]{3}-[0-9]{3}$
+
+## regex:pincode
+- [0-9]{6}
